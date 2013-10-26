@@ -1,4 +1,3 @@
-laughingsquid
-=============
+# anonpost
 
-We're working on a new version of Pulsir. This is the code.
+We're working on an anonimous posting platform. This is the code.
